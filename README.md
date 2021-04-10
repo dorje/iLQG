@@ -7,10 +7,12 @@ Todorov, E. and Li, W. (2005) A generalized iterative LQG method for locally-opt
 CAUTION!
 --------
 I met some problems when I replicated the paper with Python.
+
 Even though it seems to worke, I am not sure the code is 100% right.
 
+
 So, please do check the code carefully before you use it somewhere.
-I appreciate any feedback from you.
+I appreciate any feedback from you (Please leave it in the ISSUES).
 
 
 Cheers,
